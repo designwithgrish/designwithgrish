@@ -7,7 +7,7 @@ Currently!! Learning Web Development and Graphics Desigining
 I love coding and desigining!!!!!
 
 * 🌍  I'm based in Chitwan, Nepal
-* ✉️  You can contact me at [skullwhite44@gmail.com](mailto:skullwhite44@gmail.com)
+* ✉️  You can contact me at [grishgiri445@gmail.com](mailto:grishgiri445@gmail.com)
 * 🧠  I'm learning JS, django, React, Figma
 * ⚡  I'm secretly spiderman but..... don't tell anyone
 
